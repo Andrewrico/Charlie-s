@@ -1,1 +1,462 @@
-{"sections":{"0a495bde-78c6-4288-81c3-1c6b703f7894":{"type":"slideshow","blocks":{"template--15939768909977__0a495bde-78c6-4288-81c3-1c6b703f7894-16725891743c23f75f-0":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/Banner-Jan-23.jpg","heading":"Image slide","heading_size":"h1","subheading":"Tell your brand's story through images","button_label":"Button label","link":"","button_style_secondary":true,"box_align":"middle-left","show_text_box":true,"text_alignment":"center","image_overlay_opacity":10,"color_scheme":"background-1","text_alignment_mobile":"center"}},"template--15939768909977__0a495bde-78c6-4288-81c3-1c6b703f7894-16725891743c23f75f-1":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/product-mysotre-983.jpg","heading":"Image slide","heading_size":"h1","subheading":"Tell your brand's story through images","button_label":"Button label","link":"","button_style_secondary":true,"box_align":"middle-center","show_text_box":true,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}},"acf07e4e-61df-4b16-a701-2f15c85e9525":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/sitting-on-ladder-wearing-sneakers.jpg","heading":"Image slide","heading_size":"h1","subheading":"Tell your brand's story through images","button_label":"Button label","link":"","button_style_secondary":true,"box_align":"middle-right","show_text_box":true,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"background-1","text_alignment_mobile":"center"}}},"block_order":["template--15939768909977__0a495bde-78c6-4288-81c3-1c6b703f7894-16725891743c23f75f-0","template--15939768909977__0a495bde-78c6-4288-81c3-1c6b703f7894-16725891743c23f75f-1","acf07e4e-61df-4b16-a701-2f15c85e9525"],"settings":{"layout":"full_bleed","slide_height":"medium","slider_visual":"dots","auto_rotate":true,"change_slides_speed":5,"show_text_below":true,"accessibility_info":"Slideshow about our brand"}},"75fd6b46-7815-4da4-a17c-268cb187b692":{"type":"collage","blocks":{"89daca91-1b2e-4591-bf0e-a99ac5a1109c":{"type":"collection","settings":{"collection":"men"}},"f2c58c63-43f4-42c2-85b8-3d132bb57525":{"type":"collection","settings":{"collection":"men"}},"0da0de84-94ee-4ff0-be9a-39f35c59930e":{"type":"collection","settings":{"collection":"women"}}},"block_order":["89daca91-1b2e-4591-bf0e-a99ac5a1109c","f2c58c63-43f4-42c2-85b8-3d132bb57525","0da0de84-94ee-4ff0-be9a-39f35c59930e"],"settings":{"heading":"Shop by Category","heading_size":"h1","desktop_layout":"left","mobile_layout":"collage","card_styles":"product-card-wrapper","color_scheme":"background-1","padding_top":8,"padding_bottom":8}},"collage":{"type":"collage","blocks":{"product":{"type":"product","settings":{"product":"classic-leather-jacket","second_image":true}},"eab19fc9-0185-44f1-bcc9-31d537997328":{"type":"product","settings":{"product":"blue-silk-tuxedo","second_image":true}},"dd638cd6-7ad9-406c-a5ca-e05115bc752b":{"type":"product","settings":{"product":"chequered-red-shirt","second_image":true}}},"block_order":["product","eab19fc9-0185-44f1-bcc9-31d537997328","dd638cd6-7ad9-406c-a5ca-e05115bc752b"],"settings":{"heading":"New Arrivals","heading_size":"h2","desktop_layout":"right","mobile_layout":"collage","card_styles":"product-card-wrapper","color_scheme":"background-1","padding_top":36,"padding_bottom":16}},"9322c460-6d7f-47b4-8ca5-8b8ba1896ae7":{"type":"collage","blocks":{"template--15939768909977__9322c460-6d7f-47b4-8ca5-8b8ba1896ae7-1672591947464243d8-1":{"type":"product","settings":{"product":"dark-denim-top","second_image":true}},"ae053c28-232c-46bc-987b-c455848bf2fc":{"type":"product","settings":{"product":"classic-varsity-top","second_image":true}},"bbe8df81-2b69-44b5-bd3b-8c650106067c":{"type":"product","settings":{"product":"ocean-blue-shirt","second_image":true}}},"block_order":["template--15939768909977__9322c460-6d7f-47b4-8ca5-8b8ba1896ae7-1672591947464243d8-1","ae053c28-232c-46bc-987b-c455848bf2fc","bbe8df81-2b69-44b5-bd3b-8c650106067c"],"settings":{"heading":"Classic","heading_size":"h2","desktop_layout":"left","mobile_layout":"collage","card_styles":"product-card-wrapper","color_scheme":"background-1","padding_top":16,"padding_bottom":16}},"a6d2f928-7153-43b5-98cd-bc1f6b34a520":{"type":"collage","blocks":{"template--15939768909977__a6d2f928-7153-43b5-98cd-bc1f6b34a520-1672591947464243d8-0":{"type":"video","settings":{"video_url":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","description":"Describe the video","image_padding":false}},"88b0b16e-d3d7-4263-846b-fa5b2043529c":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/atikh-bana-_KaMTEmJnxY-unsplash.jpg","image_padding":true}},"41794806-aff1-40ce-b6c8-8110dff04eef":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/product-mysotre-982.jpg","image_padding":true}}},"block_order":["template--15939768909977__a6d2f928-7153-43b5-98cd-bc1f6b34a520-1672591947464243d8-0","88b0b16e-d3d7-4263-846b-fa5b2043529c","41794806-aff1-40ce-b6c8-8110dff04eef"],"settings":{"heading":"","heading_size":"h2","desktop_layout":"left","mobile_layout":"collage","card_styles":"product-card-wrapper","color_scheme":"background-1","padding_top":36,"padding_bottom":36}},"image_banner":{"type":"image-banner","disabled":true,"blocks":{"heading":{"type":"heading","settings":{"heading":"Image banner","heading_size":"h0"}},"text":{"type":"text","settings":{"text":"Give customers details about the banner image(s) or content on the template.","text_style":"body"}},"button":{"type":"buttons","settings":{"button_label_1":"Shop all","button_link_1":"shopify:\/\/collections\/all","button_style_secondary_1":true,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading","text","button"],"settings":{"image":"shopify:\/\/shop_images\/Banner-Jan-23.jpg","image_overlay_opacity":40,"image_height":"medium","adapt_height_first_image":false,"desktop_content_position":"middle-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"background-1","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"rich_text":{"type":"rich-text","disabled":true,"blocks":{"heading":{"type":"heading","settings":{"heading":"<p>Talk about your brand<\/p>","heading_size":"h1"}},"text":{"type":"text","settings":{"text":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"}}},"block_order":["heading","text"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"background-1","full_width":true,"padding_top":40,"padding_bottom":0}},"multicolumn":{"type":"multicolumn","disabled":true,"blocks":{"column1":{"type":"column","settings":{"title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}},"column2":{"type":"column","settings":{"title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}},"column3":{"type":"column","settings":{"title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}}},"block_order":["column1","column2","column3"],"settings":{"title":"","heading_size":"h1","image_width":"third","image_ratio":"adapt","columns_desktop":3,"column_alignment":"center","background_style":"none","button_label":"","button_link":"","color_scheme":"background-1","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"featured_collection":{"type":"featured-collection","disabled":true,"settings":{"title":"Featured products","heading_size":"h2","description":"","show_description":false,"description_style":"body","collection":"all","products_to_show":8,"columns_desktop":4,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":false,"color_scheme":"background-1","image_ratio":"adapt","show_secondary_image":true,"show_vendor":false,"show_rating":false,"enable_quick_add":false,"columns_mobile":"2","swipe_on_mobile":false,"padding_top":28,"padding_bottom":36}},"video":{"type":"video","disabled":true,"settings":{"heading":"","heading_size":"h1","video_url":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","description":"","full_width":false,"color_scheme":"background-1","padding_top":36,"padding_bottom":36}},"efcb5379-b9df-4cdf-bb40-19d223fd3382":{"type":"newsletter","blocks":{"template--15939768909977__efcb5379-b9df-4cdf-bb40-19d223fd3382-1672595257393f73c2-0":{"type":"heading","settings":{"heading":"Subscribe to our emails","heading_size":"h1"}},"template--15939768909977__efcb5379-b9df-4cdf-bb40-19d223fd3382-1672595257393f73c2-1":{"type":"paragraph","settings":{"text":"<p>Be the first to know about new collections and exclusive offers.<\/p>"}},"template--15939768909977__efcb5379-b9df-4cdf-bb40-19d223fd3382-1672595257393f73c2-2":{"type":"email_form","settings":{}}},"block_order":["template--15939768909977__efcb5379-b9df-4cdf-bb40-19d223fd3382-1672595257393f73c2-0","template--15939768909977__efcb5379-b9df-4cdf-bb40-19d223fd3382-1672595257393f73c2-1","template--15939768909977__efcb5379-b9df-4cdf-bb40-19d223fd3382-1672595257393f73c2-2"],"settings":{"color_scheme":"accent-1","full_width":true,"padding_top":48,"padding_bottom":48}}},"order":["0a495bde-78c6-4288-81c3-1c6b703f7894","75fd6b46-7815-4da4-a17c-268cb187b692","collage","9322c460-6d7f-47b4-8ca5-8b8ba1896ae7","a6d2f928-7153-43b5-98cd-bc1f6b34a520","image_banner","rich_text","multicolumn","featured_collection","video","efcb5379-b9df-4cdf-bb40-19d223fd3382"]}
+{
+  "sections": {
+    "0a495bde-78c6-4288-81c3-1c6b703f7894": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15939768909977__0a495bde-78c6-4288-81c3-1c6b703f7894-16725891743c23f75f-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Banner-Jan-23.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "middle-left",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 10,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--15939768909977__0a495bde-78c6-4288-81c3-1c6b703f7894-16725891743c23f75f-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/product-mysotre-983.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "acf07e4e-61df-4b16-a701-2f15c85e9525": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sitting-on-ladder-wearing-sneakers.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "middle-right",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15939768909977__0a495bde-78c6-4288-81c3-1c6b703f7894-16725891743c23f75f-0",
+        "template--15939768909977__0a495bde-78c6-4288-81c3-1c6b703f7894-16725891743c23f75f-1",
+        "acf07e4e-61df-4b16-a701-2f15c85e9525"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "75fd6b46-7815-4da4-a17c-268cb187b692": {
+      "type": "collage",
+      "blocks": {
+        "89daca91-1b2e-4591-bf0e-a99ac5a1109c": {
+          "type": "collection",
+          "settings": {
+            "collection": "men"
+          }
+        },
+        "f2c58c63-43f4-42c2-85b8-3d132bb57525": {
+          "type": "collection",
+          "settings": {
+            "collection": "men"
+          }
+        },
+        "0da0de84-94ee-4ff0-be9a-39f35c59930e": {
+          "type": "collection",
+          "settings": {
+            "collection": "women"
+          }
+        }
+      },
+      "block_order": [
+        "89daca91-1b2e-4591-bf0e-a99ac5a1109c",
+        "f2c58c63-43f4-42c2-85b8-3d132bb57525",
+        "0da0de84-94ee-4ff0-be9a-39f35c59930e"
+      ],
+      "settings": {
+        "heading": "Shop by Category",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "collage": {
+      "type": "collage",
+      "blocks": {
+        "product": {
+          "type": "product",
+          "settings": {
+            "product": "classic-leather-jacket",
+            "second_image": true
+          }
+        },
+        "eab19fc9-0185-44f1-bcc9-31d537997328": {
+          "type": "product",
+          "settings": {
+            "product": "blue-silk-tuxedo",
+            "second_image": true
+          }
+        },
+        "dd638cd6-7ad9-406c-a5ca-e05115bc752b": {
+          "type": "product",
+          "settings": {
+            "product": "chequered-red-shirt",
+            "second_image": true
+          }
+        }
+      },
+      "block_order": [
+        "product",
+        "eab19fc9-0185-44f1-bcc9-31d537997328",
+        "dd638cd6-7ad9-406c-a5ca-e05115bc752b"
+      ],
+      "settings": {
+        "heading": "New Arrivals",
+        "heading_size": "h2",
+        "desktop_layout": "right",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 16
+      }
+    },
+    "9322c460-6d7f-47b4-8ca5-8b8ba1896ae7": {
+      "type": "collage",
+      "blocks": {
+        "template--15939768909977__9322c460-6d7f-47b4-8ca5-8b8ba1896ae7-1672591947464243d8-1": {
+          "type": "product",
+          "settings": {
+            "product": "dark-denim-top",
+            "second_image": true
+          }
+        },
+        "ae053c28-232c-46bc-987b-c455848bf2fc": {
+          "type": "product",
+          "settings": {
+            "product": "classic-varsity-top",
+            "second_image": true
+          }
+        },
+        "bbe8df81-2b69-44b5-bd3b-8c650106067c": {
+          "type": "product",
+          "settings": {
+            "product": "ocean-blue-shirt",
+            "second_image": true
+          }
+        }
+      },
+      "block_order": [
+        "template--15939768909977__9322c460-6d7f-47b4-8ca5-8b8ba1896ae7-1672591947464243d8-1",
+        "ae053c28-232c-46bc-987b-c455848bf2fc",
+        "bbe8df81-2b69-44b5-bd3b-8c650106067c"
+      ],
+      "settings": {
+        "heading": "Classic",
+        "heading_size": "h2",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "a6d2f928-7153-43b5-98cd-bc1f6b34a520": {
+      "type": "collage",
+      "blocks": {
+        "template--15939768909977__a6d2f928-7153-43b5-98cd-bc1f6b34a520-1672591947464243d8-0": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "description": "Describe the video",
+            "image_padding": false
+          }
+        },
+        "88b0b16e-d3d7-4263-846b-fa5b2043529c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/atikh-bana-_KaMTEmJnxY-unsplash.jpg",
+            "image_padding": true
+          }
+        },
+        "41794806-aff1-40ce-b6c8-8110dff04eef": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/product-mysotre-982.jpg",
+            "image_padding": true
+          }
+        }
+      },
+      "block_order": [
+        "template--15939768909977__a6d2f928-7153-43b5-98cd-bc1f6b34a520-1672591947464243d8-0",
+        "88b0b16e-d3d7-4263-846b-fa5b2043529c",
+        "41794806-aff1-40ce-b6c8-8110dff04eef"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h0"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Banner-Jan-23.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "column1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column2",
+        "column3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Featured products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 36
+      }
+    },
+    "video": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "efcb5379-b9df-4cdf-bb40-19d223fd3382": {
+      "type": "newsletter",
+      "blocks": {
+        "template--15939768909977__efcb5379-b9df-4cdf-bb40-19d223fd3382-1672595257393f73c2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "template--15939768909977__efcb5379-b9df-4cdf-bb40-19d223fd3382-1672595257393f73c2-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "template--15939768909977__efcb5379-b9df-4cdf-bb40-19d223fd3382-1672595257393f73c2-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--15939768909977__efcb5379-b9df-4cdf-bb40-19d223fd3382-1672595257393f73c2-0",
+        "template--15939768909977__efcb5379-b9df-4cdf-bb40-19d223fd3382-1672595257393f73c2-1",
+        "template--15939768909977__efcb5379-b9df-4cdf-bb40-19d223fd3382-1672595257393f73c2-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 48,
+        "padding_bottom": 48
+      }
+    }
+  },
+  "order": [
+    "0a495bde-78c6-4288-81c3-1c6b703f7894",
+    "75fd6b46-7815-4da4-a17c-268cb187b692",
+    "collage",
+    "9322c460-6d7f-47b4-8ca5-8b8ba1896ae7",
+    "a6d2f928-7153-43b5-98cd-bc1f6b34a520",
+    "image_banner",
+    "rich_text",
+    "multicolumn",
+    "featured_collection",
+    "video",
+    "efcb5379-b9df-4cdf-bb40-19d223fd3382"
+  ]
+}
