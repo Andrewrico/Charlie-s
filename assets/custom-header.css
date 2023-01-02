@@ -32,7 +32,8 @@
 }
 
 .header__menu-item {
-    font-size: 19px!important;
+    color: #000;
+    font-size: 17px!important;
 }
 
 .mega-menu__content {
