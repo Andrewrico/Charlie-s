@@ -1,0 +1,24 @@
+.header__icons {
+    align-items: flex-end;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+@media(max-width: 980px) {
+    .hidden-menu-mobile {
+        display: block;
+    }
+    .hidden-menu-desktop {
+        display: none;
+    }
+}
+
+
+@media(min-width: 980px) {
+    .hidden-menu-mobile {
+        display: none;
+    }
+    .hidden-menu-desktop {
+        display: block;
+    }
+}
